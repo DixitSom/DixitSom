@@ -23,4 +23,6 @@ Shivam | temp2@gmail.com | anywhere in mars
   * Item 2b 
 
 
-* Some Italic thing *
+*Some Italic thing*
+
+**Bold Thing**
