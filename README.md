@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # This is Table 
 Name | Emails | Address
-------------------------
+---- | ------ | -------
 ROhan | temp@gmail.com | ANywhere on earth
 Shivam | temp2@gmail.com | anywhere in mars
 
