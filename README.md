@@ -26,3 +26,6 @@ Shivam | temp2@gmail.com | anywhere in mars
 *Some Italic thing*
 
 **Bold Thing**
+
+[this is a Link](www.google.com)
+![this is an image](/img/img.jpg)
